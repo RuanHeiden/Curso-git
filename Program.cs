@@ -10,6 +10,8 @@ namespace ProjetoDeTeste
             Console.WriteLine("Ola mundo !!");
             Console.WriteLine("Bom dia   !!");
             Console.WriteLine("Como você ??");
+            Console.WriteLine("Qual o seu nome ?");
+            Console.ReadLine();
         }
     }
 }
